@@ -23,11 +23,11 @@ The application will be deployed on Hostinger, link: https://modern-bussiness-co
 
 ### Screenshot
 
-![](./dist/assets/Vite%20%2B%20React%20-%20modern-bussiness.png)
+![](./src/assets/Vite%20%2B%20React%20-%20modern-bussiness.png)
 
 ### Links
 
-- Solution URL: [https://github.com/YangLongWang/Tech-Blog](https://github.com/YangLongWang/Tech-Blog)
+- Solution URL: [https://github.com/YangLongWang/modern-business-website](https://github.com/YangLongWang/modern-business-website)
 - Deployed URL: [https://modern-bussiness-com.preview-domain.com/](https://modern-bussiness-com.preview-domain.com/)
 
 ## My process
